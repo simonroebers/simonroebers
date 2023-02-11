@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello visitor 👋
+As a Business Analytics Masters student, I enjoy using data to drive business decisions. I excel in communicating my findings to diverse audiences and have a broad business background. With a strong foundation in statistics and prior consulting experience, I am ready to tackle any data challenge. Just don't offer me cake, I have a weakness for it that's not exactly analytic.
+
+You can reach me on LinkedIn: https://www.linkedin.com/in/simon-roebers/
+
 
 <!--
 **simonroebers/simonroebers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
