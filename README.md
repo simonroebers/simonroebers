@@ -1,7 +1,11 @@
-### Hello visitor 👋
+### A bit about me 🙋‍♂️
 As a Business Analytics Masters student, I enjoy using data to drive business decisions. I excel in communicating my findings to diverse audiences and have a broad business background. With a strong foundation in statistics and prior consulting experience, I am ready to tackle any data challenge. Just don't offer me cake, I have a weakness for it that's not exactly analytic.
 
-You can reach me on LinkedIn: https://www.linkedin.com/in/simon-roebers/
+---
+
+- 💻 I can retrieve data with SQL and analyze it with Python and R.
+- 🗄️ The published code is meant to archive some of my work.
+- 📫 How to reach me: https://www.linkedin.com/in/simon-roebers/
 
 
 <!--
