@@ -1,4 +1,4 @@
-### Hello visitor 🙋‍♂️
+## Hi, I'm Simon 🙋‍♂️
 As a Business Analytics Masters student, I enjoy using data to drive business decisions. I excel in communicating my findings to diverse audiences and have a broad business background. With a strong foundation in statistics and prior consulting experience, I am ready to tackle any data challenge. Just don't offer me cake, I have a weakness for it that's not exactly analytic.
 
 ---
