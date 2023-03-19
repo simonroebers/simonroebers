@@ -1,5 +1,5 @@
 ## Hi, I'm Simon 🙋‍♂️
-As a Business Analytics Masters student, I enjoy using data to drive business decisions. I excel in communicating my findings to diverse audiences and have a broad business background. With a strong foundation in statistics and prior consulting experience, I am ready to tackle any data challenge. But I have a serious weakness: cake.
+As a Business Analytics Masters student, I enjoy using data to drive business decisions. I excel in communicating my findings to diverse audiences and have a broad business background. With a strong foundation in statistics and project management experience from consulting, I am ready to tackle any data challenge.
 
 ---
 
